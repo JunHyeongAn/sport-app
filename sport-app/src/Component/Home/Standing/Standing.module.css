@@ -1,0 +1,21 @@
+.standingBox {
+    width: 55%;
+}
+
+.standingTable {
+    height: auto;
+    text-align: center;
+}
+
+.standingTable img {
+    width: 25px;
+}
+
+.standing {
+    font-size: 17pt;
+}
+
+.more {
+    text-align: center;
+    background-color: rgb(243, 243, 243);
+}
